@@ -11,7 +11,7 @@ I have learned and sharpened my knowledge in react, js, and CSS designing. map m
 
 ## Screenshots
 
-![App Screenshot](https://photos.app.goo.gl/ZZRhBrszFpLanzSV7)
+![App Screenshot](Screenshot (35).png)
 
 
 
